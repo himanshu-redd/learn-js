@@ -8,7 +8,7 @@ Focus on understanding basic syntax, data types, operators, control flow, and fu
     - **Problem 1.2:** [Write a function that takes two numbers as input, adds them, and returns the result. Call the function and print the sum.](sum.js)
 2. **Operators:**
     
-    - **Problem 2.1:** Calculate the area of a rectangle. Declare variables for `length` and `width`, then use the multiplication operator to find the `area`. Print the `area`.
+    - **Problem 2.1:** [Calculate the area of a rectangle. Declare variables for `length` and `width`, then use the multiplication operator to find the `area`. Print the `area`.](rect_area.js)
     - **Problem 2.2:** Write a program that checks if a given number is even or odd using the modulo operator (`%`).
 3. **Control Flow (if/else, switch):**
     
