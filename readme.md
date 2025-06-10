@@ -5,7 +5,7 @@ Focus on understanding basic syntax, data types, operators, control flow, and fu
 1. **Variables and Data Types:**
     
     - **Problem 1.1:** [Declare variables for your name (string), age (number), and whether you are a student (boolean). Print each variable and its data type to the console.](variable.js)
-    - **Problem 1.2:** Write a function that takes two numbers as input, adds them, and returns the result. Call the function and print the sum.
+    - **Problem 1.2:** [Write a function that takes two numbers as input, adds them, and returns the result. Call the function and print the sum.](sum.js)
 2. **Operators:**
     
     - **Problem 2.1:** Calculate the area of a rectangle. Declare variables for `length` and `width`, then use the multiplication operator to find the `area`. Print the `area`.
