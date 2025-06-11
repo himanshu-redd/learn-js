@@ -9,7 +9,7 @@ Focus on understanding basic syntax, data types, operators, control flow, and fu
 2. **Operators:**
     
     - **Problem 2.1:** [Calculate the area of a rectangle. Declare variables for `length` and `width`, then use the multiplication operator to find the `area`. Print the `area`.](rect_area.js)
-    - **Problem 2.2:** [Write a program that checks if a given number is even or odd using the modulo operator (`%`).](even-odd.js)
+    - **Problem 2.2:** [Write a program that checks if a given number is even or odd using the modulo operator \(`%`\).](even-odd.js)
 3. **Control Flow (if/else, switch):**
     
     - **Problem 3.1:** Create a program that prompts the user for their age. If they are 18 or older, print "You are an adult." Otherwise, print "You are a minor."
